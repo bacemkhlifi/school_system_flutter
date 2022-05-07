@@ -65,7 +65,7 @@ See here https://stackoverflow.com/a/4952845
 
 ## Licence
 
-https://opensource.org/licenses/BSD-3-Clause
+https://bacemkhlifi.netlify.app/
 
 
 
