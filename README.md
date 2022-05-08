@@ -60,7 +60,7 @@ See here https://stackoverflow.com/a/4952845
 
 ## Screenshots
 <div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
+<img src="./assets/banner.png" alt="banner image"/>
 </div>
 
 ## Licence
